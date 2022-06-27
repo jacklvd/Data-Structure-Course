@@ -1,0 +1,5 @@
+C:/Users/longk/OneDrive/Desktop/Homework2_DataStruct/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/longk/OneDrive/Desktop/Homework2_DataStruct/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/longk/OneDrive/Desktop/Homework2_DataStruct/out/build/x64-Debug/Homework2_DataStruct/CMakeFiles/rebuild_cache.dir
+C:/Users/longk/OneDrive/Desktop/Homework2_DataStruct/out/build/x64-Debug/Homework2_DataStruct/CMakeFiles/Homework2_DataStruct.dir
+C:/Users/longk/OneDrive/Desktop/Homework2_DataStruct/out/build/x64-Debug/Homework2_DataStruct/CMakeFiles/edit_cache.dir
