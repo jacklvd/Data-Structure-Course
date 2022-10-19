@@ -1,4 +1,4 @@
-# Data-Structure-Course
+# The Data Structure Course - Spring 2022
 
 ## Contents in this course
 
