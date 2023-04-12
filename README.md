@@ -1,5 +1,5 @@
 # The Data Structure Course - Spring 2022
----
+
 ## Contents in this course
 ### Homework
 - Homework 1: https://github.com/jacklvd/Data-Structure-Course/tree/master/HW01
